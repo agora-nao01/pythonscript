@@ -11,6 +11,6 @@ Pls follow me, help PythonScript, dance... and make any
 ![termuxscreenshot](.etc/Termuxshot.jpg)
 > (pls, Don't question my keyboard)
 
-# Wtf TV???????
+# WTF TV?!?!?!?!?!?!?!
 ![tvtermuxscreenshot](.etc/TVtermux.jpg)
 > (I use `python` in the place... chmod is hard on TV)
