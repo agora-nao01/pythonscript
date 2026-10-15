@@ -12,4 +12,4 @@ Pls follow me, help PythonScript, dance... and make any
 > (pls, Don't question my keyboard)
 
 # Wtf TV???????
-![tvtermuxscreenshot](.etc/tvtermux.jpg)
+![tvtermuxscreenshot](.etc/TVtermux.jpg)
