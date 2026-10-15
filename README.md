@@ -9,3 +9,4 @@ Pls follow me, help PythonScript, dance... and make any
 
 # Func in Termux!!!!!!!
 ![termuxscreenshot](.etc/Termuxshot.jpg)
+> (pls, Don't question my keyboard)
