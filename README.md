@@ -13,3 +13,4 @@ Pls follow me, help PythonScript, dance... and make any
 
 # Wtf TV???????
 ![tvtermuxscreenshot](.etc/TVtermux.jpg)
+> (I use `python` in the place... chmod is hard on TV)
